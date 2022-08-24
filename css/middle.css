@@ -1,0 +1,62 @@
+.middle-container {
+    text-align: center;
+}
+.skill-heading {
+    margin: 0;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.code-img {
+    margin-right: 30px;
+    width:20%;
+    float: left;
+}
+.design-heading {
+    text-align: left;
+}
+.coding-description {
+    text-align: left;
+}
+.editing-img {
+    margin-left: 30px;
+    float: right;
+    width: 20%;
+}
+.editing-heading {
+    text-align: right;
+}
+.editing-description {
+    text-align: right;
+}
+.contact {
+    margin-top: 120px;
+}
+.contact h2{
+    margin: 0;
+}
+.contact-heading {
+    color: #ff4a4a;
+    font-family: Montserrat;
+}
+.contact-btn {
+    -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: #ff4a4a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+.contact-btn:hover {
+    opacity: 0.8;
+    transition: 0.2s;
+}

@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: Montserrat;
+}
+h1 {
+    color: white;
+    font-size: 3em;
+    margin: 0;
+    font-family: Dancing Script;
+}
+.subhead {
+    color: rgba(0, 0, 0, 0.797);
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
+span {
+    text-decoration: underline;
+}
+.top-container {
+    padding: 30px;
+    background-color: #ff4a4a;
+}
+.profile-img {
+    width: 10%;
+}
